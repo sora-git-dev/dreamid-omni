@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/badge/Website-dreamidomni.net-blue)](https://www.dreamidomni.net)
 [![License](https://img.shields.io/badge/License-Proprietary-red)](#license)
 
-DreamID-Omni is the world's first unified framework that merges **Generation**, **Editing**, and **Animation** into a single model. Powered by our exclusive **Syn-RoPE** technology, it explicitly ties identity to spatial positions, solving the industry-wide problem of "identity drift" in multi-person scenes.
+[DreamId Omni](https://www.dreamidomni.net) is the world's first unified framework that merges **Generation**, **Editing**, and **Animation** into a single model. Powered by our exclusive **Syn-RoPE** technology, it explicitly ties identity to spatial positions, solving the industry-wide problem of "identity drift" in multi-person scenes.
 
 ## Key Features
 
